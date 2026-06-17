@@ -31,7 +31,7 @@ Then open the repo with OpenCode. It will discover:
 
 ## Core Workflows
 
-- Cargo quality sweeps from the latest Cargo export.
+- Research-driven article improvement sweeps from Cargo quality findings.
 - Minimal Cargo template fixes for individual pages.
 - Splitting incident content out of company/product/product-line pages.
 - Turning article suggestions into sourced article briefs.

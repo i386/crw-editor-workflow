@@ -85,6 +85,7 @@ Before finalizing:
 
 - `python3 scripts/fetch_cargo_export.py`
 - `python3 scripts/cargo_quality_report.py data/snapshots/all_cargo_combined.json --markdown reports/cargo-quality.md`
+- `python3 scripts/fetch_wiki_page.py "Page title"`
 - `python3 scripts/article_suggestions_to_queue.py --limit 20`
 - `python3 scripts/parse_wikitext_templates.py path/to/page.wiki`
 
@@ -93,6 +94,7 @@ Before finalizing:
 Use repo skills when relevant:
 
 - `crw-cargo-triage`
+- `crw-cargo-research-improver`
 - `crw-cargo-infobox-fixer`
 - `crw-incident-splitter`
 - `crw-source-auditor`

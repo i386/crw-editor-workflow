@@ -1,6 +1,6 @@
 ---
 name: crw-cargo-triage
-description: Triage Consumer Rights Wiki Cargo export quality issues and group them into useful editor work queues.
+description: Triage Consumer Rights Wiki Cargo export quality issues and group them into useful research-driven editor work queues.
 ---
 
 # CRW Cargo Triage
@@ -45,8 +45,8 @@ Prefer batches that:
 Return:
 
 - Summary counts.
-- 3 to 5 recommended work batches.
+- 3 to 5 recommended research/improvement batches.
 - For each batch: example pages, risk level, suggested workflow, and whether human source lookup is required.
+- The best next batch for `crw-cargo-research-improver`.
 
 Do not invent Cargo values. If a field cannot be verified, leave it blank and mark it for human review.
-
