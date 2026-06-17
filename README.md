@@ -27,6 +27,7 @@ Then open the repo with OpenCode. It will discover:
 - `/suggestion-to-draft`
 - `/source-hardening-pass`
 - `/tone-and-risk-pass`
+- `/video-transcript-to-page`
 
 ## Core Workflows
 
@@ -34,6 +35,7 @@ Then open the repo with OpenCode. It will discover:
 - Minimal Cargo template fixes for individual pages.
 - Splitting incident content out of company/product/product-line pages.
 - Turning article suggestions into sourced article briefs.
+- Turning video transcripts into article briefs, source maps, suggestion rows, drafts, or patches.
 - Source hardening passes.
 - Tone and legal-risk cleanup passes.
 
@@ -49,4 +51,3 @@ The default output should be an edit bundle:
 - Suggested edit summary.
 
 Publishing remains a human editor decision.
-

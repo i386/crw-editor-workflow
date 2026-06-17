@@ -102,4 +102,4 @@ Use repo skills when relevant:
 - `crw-title-and-link-normalizer`
 - `crw-relationship-mapper`
 - `crw-edit-packager`
-
+- `crw-video-transcript-to-page`
